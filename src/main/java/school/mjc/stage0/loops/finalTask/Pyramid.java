@@ -14,7 +14,7 @@ public class Pyramid {
                 if (i > j) {
                     System.out.print(j + 1);
                 } else {
-                    System.out.print(" ");
+                    System.out.print("");
                 }
             }
             System.out.println();
